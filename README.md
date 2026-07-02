@@ -17,7 +17,7 @@ A tool for compiling Valve Resource Format assets into their final formats.
 The script automatically detects source files and compiles them into compiled formats:
 
 | Source Format | Compiled Extension |
-| --- | --- | --- |
+| --- | --- |
 | `.png` | `.vtex_c` |
 | `.mp3`/`.wav` | `.vsnd_c` |
 | `.vpcf` | `.vpcf_c` |
